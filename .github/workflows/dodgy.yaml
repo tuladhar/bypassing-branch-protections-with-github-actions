@@ -7,8 +7,7 @@ permissions:
   
 jobs:
   approve:
-    runs-on: ubuntu-latest
-    
+    runs-on: ubuntu-latest    
     steps:
     - run: |
         curl --request POST \
