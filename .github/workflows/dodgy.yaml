@@ -1,5 +1,7 @@
 name: APPROVE
+
 on: pull_request
+
 permissions:
   pull-requests: write
   
